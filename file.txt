@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is an file from master
+=======
+This is an file from branch b1
+>>>>>>> b1
